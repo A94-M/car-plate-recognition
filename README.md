@@ -13,4 +13,4 @@ It's crucial to ensure compatibility between OpenCV and EasyOCR by downgrading O
 2
 .
 License Plate Recognition (LPR) systems like those using EasyOCR play a vital role in various applications such as ticketless parking, tolling, stolen vehicle detection, and smart billing. These systems provide detailed data about vehicles passing through specific areas
-![](https://www.google.com/imgres?q=car-plate-recognition&imgurl=http%3A%2F%2Fwww.sensorlink.com.my%2Fwp-content%2Fuploads%2F2017%2F03%2FLPR-main-imagepoc-1024x550-copy.png&imgrefurl=https%3A%2F%2Fwww.sensorlink.com.my%2Flicense-plate-recognition%2F&docid=BSkWcmgofFwGLM&tbnid=pklr2woMVo2QEM&vet=12ahUKEwjNiMLhkNSEAxV0QPEDHRr7C1IQM3oECGAQAA..i&w=1024&h=550&hcb=2&ved=2ahUKEwjNiMLhkNSEAxV0QPEDHRr7C1IQM3oECGAQAA)
+![](https://circuitdigest.com/sites/default/files/projectimage_mic/License-Plate-Recognition-using-Raspberry-Pi-and-OpenCV.jpg)
