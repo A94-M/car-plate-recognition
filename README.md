@@ -1,5 +1,6 @@
 # car-plate-recognition
-Using EasyOCR for car plate recognition involves leveraging the capabilities of EasyOCR, an open-source Python package, along with OpenCV. Here are some key points extracted from the search results:
+#### Using EasyOCR for car plate recognition 
+involves leveraging the capabilities of EasyOCR, an open-source Python package, along with OpenCV. Here are some key points extracted from the search results:
 EasyOCR is a Python library that simplifies Optical Character Recognition (OCR) tasks, including license plate recognition. It supports over 80 languages and is user-friendly
 2
 .
